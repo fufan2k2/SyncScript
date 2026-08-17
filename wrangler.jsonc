@@ -1,0 +1,6 @@
+{
+  "$schema": "https://www.schemastore.org/wrangler.json",
+  "name": "sync-image-config",
+  "main": "worker.js",
+  "compatibility_date": "2026-08-17"
+}
