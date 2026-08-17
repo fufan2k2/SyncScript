@@ -9,7 +9,7 @@ export default {
     // =========================
 
     const START_TIME = 8 * 60;  // 08:00
-    const END_TIME   = 9 * 60;  // 09:00
+    const END_TIME   = 8 * 60 + 5;  // 09:00
 
 
     // =========================
